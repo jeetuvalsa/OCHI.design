@@ -1,0 +1,14 @@
+@font-face {
+    font-family: top;
+    src: url(./Fonts/NeueMontreal-Regular.ttf);
+}
+@font-face {
+    font-family: hero;
+    src: url(./Fonts/FoundersGrotesk-Semibold.ttf);
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
