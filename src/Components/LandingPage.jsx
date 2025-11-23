@@ -23,7 +23,7 @@ function LandingPage() {
                 >
                   <img
                     className="w-full h-full object-cover object-center"
-                    src="src\Images\Landing.jpg"
+                    src="./Landing.jpg"
                   />
                 </motion.div>
               )}
